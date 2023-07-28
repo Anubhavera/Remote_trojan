@@ -265,18 +265,9 @@ msf3> run
 | -p PASSWORD | --password PASSWORD | Password for the email address given in the -e argument. |
 | -o OUT      | --out OUT    | Output file name.|
 
-## New Screenshots:
+### Refer These Images
 
-
-#### Getting Help
-![](/img/1.version1.4.PNG)
-
-#### Generating payload
-![](/img/2.version1.4.PNG)
-
-### Also Refer These Old Images
-
-## ~Old Screenshots:
+## ~New Screenshots:
 
 #### Getting Help
 ![](/img/1.help.png)
@@ -336,13 +327,6 @@ All contributor's pull request will be accepted if their pull request is worthy 
 
 
 
-## Contributors
-
-- Dedicated Contributors List: [Contributors](CONTRIBUTORS.md)
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 
 <table>
 <tr>
