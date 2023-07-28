@@ -3,15 +3,6 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
   </a>
-  <a href="https://github.com/PushpenderIndia/thorse/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
-  </a>
-  <a href="https://github.com/PushpenderIndia/thorse/releases">
-    <img src="https://img.shields.io/badge/Release-1.7-blue.svg">
-  </a>
-    <a href="https://github.com/PushpenderIndia/thorse">
-    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
-  </a>
 </p>
 
 
