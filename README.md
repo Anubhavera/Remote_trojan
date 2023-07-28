@@ -1,4 +1,4 @@
-<h1 align="center">THorse</h1>
+<h1 align="center">Remote_Trojan</h1>
 <p align="center">
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
